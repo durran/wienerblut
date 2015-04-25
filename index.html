@@ -41,10 +41,9 @@
       L.mapbox.accessToken = "pk.eyJ1Ijoid2llbmVyYmx1dCIsImEiOiJEOWdSZkk4In0.mRKxaUztBewnLeW2YNGGvQ";
       var map = L.mapbox.map("map", "wienerblut.ed4762b1");
       map.scrollWheelZoom.disable();
-
-      if (map.tap) {
-        map.tap.disable();
-      }
+      map.dragging.disable();
+      map.touchZoom.disable();
+      if (map.tap) map.tap.disable();
 
       var wienerBlut = L.mapbox.featureLayer().addTo(map);
 
