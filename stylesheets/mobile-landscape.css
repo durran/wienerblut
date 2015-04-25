@@ -1,7 +1,7 @@
 div.title {
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
-  background-size: 80%;
+  background-size: 60%;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url(../images/logo.png);
@@ -38,12 +38,12 @@ div.info > div.container {
 }
 
 p.description {
-  font-size: 3vh;
+  font-size: 3vw;
   font-family: "Knewave", cursive;
 }
 
 p.address {
-  font-size: 1.75vh;
+  font-size: 1.75vw;
   font-family: Arial, Helvetica, sans-serif;
 }
 
