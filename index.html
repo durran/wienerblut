@@ -42,6 +42,10 @@
       var map = L.mapbox.map("map", "wienerblut.ed4762b1");
       map.scrollWheelZoom.disable();
 
+      if (map.tap) {
+        map.tap.disable();
+      }
+
       var wienerBlut = L.mapbox.featureLayer().addTo(map);
 
       var geoJson = [{
