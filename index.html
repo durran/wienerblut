@@ -42,6 +42,7 @@
       var map = L.mapbox.map("map", "wienerblut.ed4762b1");
       map.scrollWheelZoom.disable();
       map.dragging.disable();
+      map.touchZoom.disable();
 
       var wienerBlut = L.mapbox.featureLayer().addTo(map);
 
