@@ -40,6 +40,7 @@
       L.mapbox.accessToken = "pk.eyJ1Ijoid2llbmVyYmx1dCIsImEiOiJEOWdSZkk4In0.mRKxaUztBewnLeW2YNGGvQ";
       var map = L.mapbox.map("map", "wienerblut.ed4762b1");
       map.scrollWheelZoom.disable();
+      map.dragging.disable();
 
       var wienerBlut = L.mapbox.featureLayer().addTo(map);
 
@@ -47,14 +48,14 @@
         "type": "Feature",
         "geometry": {
           "type": "Point",
-          "coordinates": [13.4282, 52.4981]
+          "coordinates": [13.428554, 52.498423]
         },
         "properties": {
           "title": "Wiener Blut, Wiener Str. 14, 10999, Berlin",
           "icon": {
             "iconUrl": "images/logo_80.png",
             "iconSize": [64, 64],
-            "iconAnchor": [34, 44],
+            "iconAnchor": [32, 32],
             "popupAnchor": [0, -32],
             "className": "dot"
           }
