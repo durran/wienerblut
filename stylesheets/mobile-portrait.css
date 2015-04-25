@@ -1,7 +1,7 @@
 div.title {
-  border-top: 1px dotted #000000;
-  border-bottom: 1px dotted #000000;
-  background-size: 40%;
+  border-top: 1px solid #000000;
+  border-bottom: 1px solid #000000;
+  background-size: 80%;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url(../images/logo.png);
@@ -9,13 +9,13 @@ div.title {
 }
 
 div.bar-front {
-  border-top: 1px dotted #FFFFFF;
-  border-bottom: 1px dotted #FFFFFF;
+  border-top: 1px solid #FFFFFF;
+  border-bottom: 1px solid #FFFFFF;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url(../images/desktop/bar_front.jpg);
-  height: 100%;
+  height: 50%;
 }
 
 div.map {
@@ -52,7 +52,7 @@ div.info > div.container > a > img {
 }
 
 ul {
-  border-top: 1px dotted #FFFFFF;
+  border-top: 1px solid #FFFFFF;
   border-bottom: 4px solid #000000;
 }
 
