@@ -1,0 +1,108 @@
+div.title {
+  border-top: 1px dotted #000000;
+  border-bottom: 1px dotted #000000;
+  background-size: 40%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url(../images/logo.png);
+  height: 100%;
+}
+
+div.bar-front {
+  border-top: 1px dotted #FFFFFF;
+  border-bottom: 1px dotted #FFFFFF;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-image: url(../images/desktop/bar_front.jpg);
+  height: 100%;
+}
+
+div.map {
+  height: 100%;
+}
+
+div.info {
+  height: 100%;
+  position: relative;
+}
+
+div.info > div.container {
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+p.description {
+  font-size: 4vh;
+  font-family: "Knewave", cursive;
+}
+
+p.address {
+  font-size: 1.75vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+div.info > div.container > a > img {
+  margin-top: 25px;
+}
+
+ul {
+  border-top: 1px dotted #FFFFFF;
+  border-bottom: 4px solid #000000;
+}
+
+ul:after {
+  clear: both;
+  content: " ";
+  display: block;
+  height: 0;
+}
+
+li {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  float: left;
+  height: 0;
+  width: 25%;
+  padding-bottom: 25%;
+  border: 2px solid #000000;
+}
+
+li.bar-angle {
+  background-image: url(../images/desktop/bar_angle.jpg);
+}
+
+li.kicker {
+  background-image: url(../images/desktop/kicker.jpg);
+}
+
+li.posters {
+  background-image: url(../images/desktop/posters.jpg);
+}
+
+li.outside {
+  background-image: url(../images/desktop/outside.jpg);
+}
+
+li.elvis {
+  background-image: url(../images/desktop/elvis.jpg);
+}
+
+li.corner {
+  background-image: url(../images/desktop/corner.jpg);
+}
+
+li.ladies {
+  background-image: url(../images/desktop/ladies.jpg);
+}
+
+li.bar {
+  background-image: url(../images/desktop/bar.jpg);
+}

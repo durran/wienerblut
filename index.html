@@ -5,31 +5,85 @@
     <meta name="description" content="Das Wiener Blut ist eine der bekanntesten Szene-Bars in Kreuzberg 36"/>
     <title>Wiener Blut: Bar in Kreuzberg 36</title>
     <link rel="stylesheet" href="stylesheets/common.css"/>
-    <link rel="stylesheet" media="(orientation: portrait)" href="stylesheets/portrait.css"/>
-    <link rel="stylesheet" media="(orientation: landscape)" href="stylesheets/landscape.css"/>
-    <link rel="stylesheet" media="(max-device-width: 1024px)" href="stylesheets/mobile.css"/>
-    <link rel="stylesheet" media="(min-device-width: 1024px)" href="stylesheets/desktop.css"/>
+    <link rel="stylesheet" media="(min-device-width: 1024px) and (orientation: portrait)" href="stylesheets/desktop-portrait.css"/>
+    <link rel="stylesheet" media="(min-device-width: 1024px) and (orientation: landscape)" href="stylesheets/desktop-landscape.css"/>
+    <link rel="stylesheet" media="(max-device-width: 1024px) and (orientation: portrait)" href="stylesheets/mobile-portrait.css"/>
+    <link rel="stylesheet" media="(max-device-width: 1024px) and (orientation: landscape)" href="stylesheets/mobile-landscape.css"/>
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Knewave&subset=latin,latin-ext" type="text/css"/>
+    <script src="https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.js"></script>
+    <link href="https://api.tiles.mapbox.com/mapbox.js/v2.1.8/mapbox.css" rel="stylesheet"/>
   </head>
   <body>
 
     <!-- Title Section -->
-    <div class="section">
-    </div>
+    <div class="section title"></div>
 
     <!-- Large Photo Section -->
-    <div class="section">
-    </div>
+    <div class="section bar-front"></div>
 
     <!-- Small Photos Section -->
     <div class="section">
+      <ul>
+        <li class="bar-angle"/>
+        <li class="kicker"/>
+        <li class="posters"/>
+        <li class="corner"/>
+        <li class="ladies"/>
+        <li class="elvis"/>
+        <li class="outside"/>
+        <li class="bar"/>
+      </ul>
     </div>
 
     <!-- Map Section -->
-    <div class="section">
-    </div>
+    <div class="section map" id="map"></div>
+    <script>
+      L.mapbox.accessToken = "pk.eyJ1Ijoid2llbmVyYmx1dCIsImEiOiJEOWdSZkk4In0.mRKxaUztBewnLeW2YNGGvQ";
+      var map = L.mapbox.map("map", "wienerblut.ed4762b1");
+      map.scrollWheelZoom.disable();
 
-    <!-- Menu Section -->
-    <div class="section">
+      var wienerBlut = L.mapbox.featureLayer().addTo(map);
+
+      var geoJson = [{
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [13.4282, 52.4981]
+        },
+        "properties": {
+          "title": "Wiener Blut, Wiener Str. 14, 10999, Berlin",
+          "icon": {
+            "iconUrl": "images/logo_80.png",
+            "iconSize": [64, 64],
+            "iconAnchor": [34, 44],
+            "popupAnchor": [0, -32],
+            "className": "dot"
+          }
+        }
+      }];
+
+      wienerBlut.on('layeradd', function(e) {
+        var marker = e.layer,
+            feature = marker.feature;
+        marker.setIcon(L.icon(feature.properties.icon));
+      });
+
+      wienerBlut.setGeoJSON(geoJson);
+    </script>
+
+    <!-- Info Section -->
+    <div class="section info">
+      <div class="container">
+        <p class="description">
+          Das Wiener Blut ist eine der bekanntesten Szene-Bars in Kreuzberg 36.
+        </p>
+        <p class="address">
+          Wiener Straße 14, 10999 Berlin, Deutschland
+        </p>
+        <a href="https://www.facebook.com/wienerblut36", target="wiener-blut-fb">
+          <img src="images/FB-f-Logo__white_72.png"/>
+        </a>
+      </div>
     </div>
   </body>
 </html>
