@@ -23,7 +23,7 @@ div.map {
 }
 
 div.info {
-  height: 100%;
+  height: 50%;
   position: relative;
 }
 
@@ -38,7 +38,7 @@ div.info > div.container {
 }
 
 p.description {
-  font-size: 4vh;
+  font-size: 3vh;
   font-family: "Knewave", cursive;
 }
 
