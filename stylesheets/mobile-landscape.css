@@ -1,7 +1,7 @@
 div.title {
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
-  background-size: 40%;
+  background-size: 80%;
   background-position: center center;
   background-repeat: no-repeat;
   background-image: url(../images/logo.png);
@@ -29,16 +29,16 @@ div.info {
 
 div.info > div.container {
   text-align: center;
-  margin: 0;
+  width: 50%;
+  height: 50%;
+  overflow: auto;
+  margin: auto;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  margin-right: -50%;
-  transform: translate(-50%, -50%);
+  top: 0; left: 0; bottom: 0; right: 0;
 }
 
 p.description {
-  font-size: 4vh;
+  font-size: 3vh;
   font-family: "Knewave", cursive;
 }
 
@@ -70,8 +70,8 @@ li {
   box-sizing: border-box;
   float: left;
   height: 0;
-  width: 25%;
-  padding-bottom: 25%;
+  width: 50%;
+  padding-bottom: 50%;
   border: 2px solid #000000;
 }
 
@@ -106,3 +106,4 @@ li.ladies {
 li.bar {
   background-image: url(../images/desktop/bar.jpg);
 }
+
