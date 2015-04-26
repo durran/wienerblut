@@ -3,7 +3,7 @@ div.title {
 }
 
 div.bar-front {
-  background-image: url(../images/desktop/bar_front.jpg);
+  background-image: url(../images/mobile/bar_front.jpg);
   height: 50%;
 }
 
@@ -36,33 +36,33 @@ li {
 }
 
 li.bar-angle {
-  background-image: url(../images/desktop/bar_angle.jpg);
+  background-image: url(../images/mobile/bar_angle.jpg);
 }
 
 li.kicker {
-  background-image: url(../images/desktop/kicker.jpg);
+  background-image: url(../images/mobile/kicker.jpg);
 }
 
 li.posters {
-  background-image: url(../images/desktop/posters.jpg);
+  background-image: url(../images/mobile/posters.jpg);
 }
 
 li.outside {
-  background-image: url(../images/desktop/outside.jpg);
+  background-image: url(../images/mobile/outside.jpg);
 }
 
 li.elvis {
-  background-image: url(../images/desktop/elvis.jpg);
+  background-image: url(../images/mobile/elvis.jpg);
 }
 
 li.corner {
-  background-image: url(../images/desktop/corner.jpg);
+  background-image: url(../images/mobile/corner.jpg);
 }
 
 li.ladies {
-  background-image: url(../images/desktop/ladies.jpg);
+  background-image: url(../images/mobile/ladies.jpg);
 }
 
 li.bar {
-  background-image: url(../images/desktop/bar.jpg);
+  background-image: url(../images/mobile/bar.jpg);
 }
