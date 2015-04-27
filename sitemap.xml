@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>http://wienerblut.org/index.html</loc>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/bar_front.jpg</image:loc>
+      <image:title>Der Tresen im Wiener Blut</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/bar.jpg</image:loc>
+      <image:title>Der Tresen im Wiener Blut von der Seite</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/outside.jpg</image:loc>
+      <image:title>Das Wiener Blut von Außen</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/outside.jpg</image:loc>
+      <image:title>Das Elvis Bild im Wiener Blut</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/corner.jpg</image:loc>
+      <image:title>Die Wiener Blut Nordkurve</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/posters.jpg</image:loc>
+      <image:title>Posters im Wiener Blut</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/kicker.jpg</image:loc>
+      <image:title>Der Kicker-Tisch im Wiener Blut</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+    <image:image>
+      <image:loc>http://wienerblut.org/images/desktop/bar_angle.jpg</image:loc>
+      <image:title>Die Flaschen im Wiener Blut von der Seite</image:title>
+      <image:geo_location>Berlin, Deutschland</image:geo_location>
+    </image:image>
+  </url>
+</urlset>
