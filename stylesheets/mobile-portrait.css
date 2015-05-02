@@ -24,7 +24,7 @@ div.info {
 div.info > div.container {
   text-align: center;
   width: 50%;
-  height: 50%;
+  height: 80%;
   overflow: auto;
   margin: auto;
   position: absolute;
