@@ -2,7 +2,7 @@ div.title {
   background-position: center center, center 99%;
   background-repeat: no-repeat, no-repeat;
   background-image: url(../images/logo.png), url(../images/arrow.png);
-  background-size: 80%, 5%;
+  background-size: 80%, 6%;
 }
 
 div.bar-front {
@@ -18,7 +18,7 @@ div.info {
   background-position: center 99%;
   background-repeat: no-repeat;
   background-image: url(../images/arrow.png);
-  background-size: 5%;
+  background-size: 6%;
 }
 
 div.info > div.container {
