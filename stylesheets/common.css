@@ -23,9 +23,9 @@ div.section {
 }
 
 div.title {
-  background-position: center center, center 99%;
-  background-repeat: no-repeat, no-repeat;
-  background-image: url(../images/logo.png), url(../images/arrow.png);
+  background-position: center 99%;
+  background-repeat: no-repeat;
+  background-image: url(../images/arrow.png);
   border-top: 1px solid #000000;
   border-bottom: 1px solid #000000;
   height: 100%;

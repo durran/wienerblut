@@ -1,5 +1,14 @@
 div.title {
-  background-size: 45%, 3%;
+  background-size: 3%;
+}
+
+div.title > img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 45%;
+  margin-top: -22.25%;
+  margin-left: -22.25%;
 }
 
 div.bar-front {
