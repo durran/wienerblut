@@ -86,12 +86,12 @@ div.menu {
   border-top: 5px solid #000000;
 }
 
-div.menu_1 {
+div.menu-front {
   width: 50%;
   float: left;
 }
 
-div.menu_2 {
+div.menu-back {
   width: 50%;
   float: left;
 }

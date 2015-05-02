@@ -77,12 +77,12 @@ li.bar {
   background-image: url(../images/mobile/bar.jpg);
 }
 
-div.menu_1 {
+div.menu-front {
   width: 100%;
   float: left;
 }
 
-div.menu_2 {
+div.menu-back {
   width: 100%;
   float: left;
 }
