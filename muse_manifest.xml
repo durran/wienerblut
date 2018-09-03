@@ -1,259 +1,290 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.wienerblut.org,www.nikomi.de" resolutions="1x" timestamp="1533401234970">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="false" exportTarget="other" domain="www.wienerblut.org,www.nikomi.de" resolutions="1x" timestamp="1535797936978">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="drinks.css" crc="3925689569" ref="drinks"/>
+    <file name="site_global.css" crc="288436422"/>
+    <file name="drinks.css" crc="4164643967" ref="drinks"/>
     <file name="nomq_drinks.css" crc="3889138073" ref="drinks"/>
-    <file name="index.css" crc="355848373" ref="index"/>
+    <file name="index.css" crc="4057100490" ref="index"/>
     <file name="nomq_index.css" crc="4233071020" ref="index"/>
-    <file name="sounds.css" crc="189091386" ref="sounds"/>
+    <file name="sounds.css" crc="3774817579" ref="sounds"/>
     <file name="nomq_sounds.css" crc="4017574502" ref="sounds"/>
-    <file name="events.css" crc="504152873" ref="events"/>
+    <file name="events.css" crc="4284486749" ref="events"/>
     <file name="nomq_events.css" crc="326598578" ref="events"/>
-    <file name="history.css" crc="234549708" ref="history"/>
+    <file name="history.css" crc="93882787" ref="history"/>
     <file name="nomq_history.css" crc="4046344216" ref="history"/>
-    <file name="galerie.css" crc="3857529322" ref="galerie"/>
-    <file name="nomq_galerie.css" crc="162177080" ref="galerie"/>
+    <file name="galerie.css" crc="149040900" ref="galerie"/>
+    <file name="nomq_galerie.css" crc="3761441853" ref="galerie"/>
+    <file name="impressum.css" crc="410565013" ref="impressum"/>
+    <file name="nomq_impressum.css" crc="323072188" ref="impressum"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="museutils.js" crc="340535759" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="whatinput.js" crc="86476730" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="museconfig.js" crc="310584261" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="webpro.js" crc="4059564322" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:events:sounds:drinks:history:galerie"/>
-    <file name="require.js" crc="7928878" ref="index:events:sounds:drinks:history:galerie"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="museutils.js" crc="340535759" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="whatinput.js" crc="86476730" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="museconfig.js" crc="310584261" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="webpro.js" crc="4059564322" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:events:sounds:drinks:history:galerie:impressum"/>
+    <file name="require.js" crc="7928878" ref="index:events:sounds:drinks:history:galerie:impressum"/>
   </folder>
   <folder name="images">
-    <file name="bg.jpg" crc="4245234804" ref="index:events:sounds:drinks:history:galerie">
+    <file name="bg.jpg" crc="4245234804" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="index" alt=""/>
+      <caption webpage="drinks" alt=""/>
       <caption webpage="galerie" alt=""/>
       <caption webpage="sounds" alt=""/>
-      <caption webpage="drinks" alt=""/>
     </file>
-    <file name="menuburger.png" crc="4234233567" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="menuburger.png" crc="4234233567" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="menux.png" crc="408645707" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="menux.png" crc="408645707" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="svg-79263x50.svg" crc="3776745767" seo="true" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="svg-79263x50.svg" crc="3776745767" seo="true" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="svg 79263x50_poster_.png" crc="420175556" ref="index:galerie"/>
-    <file name="pasted-svg-723x723.svg" crc="439312057" seo="true" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="svg 79263x50_poster_.png" crc="420175556" ref="index"/>
+    <file name="pasted-svg-723x723.svg" crc="439312057" seo="true" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="pasted svg 723x723_poster_.png" crc="437880860" ref="index:galerie"/>
-    <file name="bar2.jpg" crc="4113480769" ref="index:events:sounds:drinks:history:galerie">
+    <file name="pasted svg 723x723_poster_.png" crc="437880860" ref="index"/>
+    <file name="bar2.jpg" crc="4113480769" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="index" alt=""/>
+      <caption webpage="drinks" alt=""/>
       <caption webpage="galerie" alt=""/>
       <caption webpage="sounds" alt=""/>
-      <caption webpage="drinks" alt=""/>
     </file>
-    <file name="brett-u29249-fr.jpg" crc="347021797" ref="index:events:history:drinks:sounds"/>
-    <file name="blood-drop.svg" crc="4069286476" seo="true" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="brett-u29249-fr.jpg" crc="347021797" ref="index:events:history:drinks:sounds:galerie:impressum"/>
+    <file name="blood-drop.svg" crc="4069286476" seo="true" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="blood-drop_poster_.png" crc="4166989775" ref="index:galerie"/>
-    <file name="pasted-svg-39082x19.svg" crc="4280401314" seo="true" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="blood-drop_poster_.png" crc="4166989775" ref="index"/>
+    <file name="pasted-svg-39082x19.svg" crc="4280401314" seo="true" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
-    <file name="pasted svg 39082x19_poster_.png" crc="51450954" ref="index:galerie"/>
-    <file name="logo276x277.png" crc="3819452922" seo="true" ref="index:galerie">
+    <file name="pasted svg 39082x19_poster_.png" crc="51450954" ref="index"/>
+    <file name="logo276x277.png" crc="3819452922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="drinks" alt=""/>
+      <caption webpage="drinks" alt=""/>
       <caption webpage="galerie" alt=""/>
       <caption webpage="galerie" alt=""/>
       <caption webpage="sounds" alt=""/>
       <caption webpage="sounds" alt=""/>
-      <caption webpage="drinks" alt=""/>
-      <caption webpage="drinks" alt=""/>
     </file>
     <file name="u30087-9-a.png" crc="3954508339" ref="index"/>
     <file name="u30087-9-a2.png" crc="3954508339" ref="index"/>
-    <file name="brett.jpg" crc="4227349727" ref="index:events:sounds:drinks:history:galerie">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="galerie" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="sounds" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="events" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
-      <caption webpage="history" alt=""/>
+    <file name="brett.jpg" crc="4227349727" ref="index:events:sounds:drinks:history:galerie:impressum">
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
       <caption webpage="drinks" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="events" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="galerie" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="history" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="impressum" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
+      <caption webpage="sounds" alt=""/>
     </file>
     <file name="u30087-9-a3.png" crc="3896333092" ref="index"/>
     <file name="u30087-9-a4.png" crc="4112209938" ref="index"/>
     <file name="u30087-9-a5.png" crc="4112209938" ref="index"/>
     <file name="u30087-9-a6.png" crc="4279727872" ref="index"/>
-    <file name="brett-u29249-fr2.jpg" crc="208210498" ref="index:events:history:drinks:sounds"/>
+    <file name="brett-u29249-fr2.jpg" crc="208210498" ref="index:events:history:drinks:sounds:galerie:impressum"/>
     <file name="bg-u28943-fr.jpg" crc="3958265412" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:events:sounds:drinks:history:galerie"/>
+    <file name="blank.gif" crc="4208392903" ref="index:events:sounds:drinks:history:galerie:impressum"/>
     <file name="polaroid-blank.jpg" crc="4280349780" seo="true" ref="events">
       <caption webpage="events" alt=""/>
     </file>
@@ -520,16 +551,21 @@
     <file name="u42680-94.png" crc="4112209938" ref="galerie"/>
     <file name="u42680-95.png" crc="4112209938" ref="galerie"/>
     <file name="u42680-96.png" crc="4279727872" ref="galerie"/>
-    <file name="brett-u43756-fr.jpg" crc="347021797" ref="galerie"/>
-    <file name="brett-u43756-fr2.jpg" crc="208210498" ref="galerie"/>
     <file name="tanzflaeche.jpg" crc="4178716705" ref="galerie">
       <caption webpage="galerie" alt=""/>
     </file>
+    <file name="u51120-9.png" crc="3954508339" ref="impressum"/>
+    <file name="u51120-92.png" crc="3954508339" ref="impressum"/>
+    <file name="u51120-93.png" crc="3896333092" ref="impressum"/>
+    <file name="u51120-94.png" crc="4112209938" ref="impressum"/>
+    <file name="u51120-95.png" crc="4112209938" ref="impressum"/>
+    <file name="u51120-96.png" crc="4279727872" ref="impressum"/>
   </folder>
-  <file name="index.html" crc="234948140" seo="true" mt="1532461445815" redirect="true"/>
-  <file name="events.html" crc="323264921" seo="true" mt="1532459593504" redirect="true"/>
-  <file name="sounds.html" crc="488025942" seo="true" mt="1532461323218" redirect="true"/>
-  <file name="drinks.html" crc="207335804" seo="true" mt="1532459593506" redirect="true"/>
-  <file name="history.html" crc="54469356" seo="true" mt="1532460667029" redirect="true"/>
-  <file name="galerie.html" crc="3915559189" seo="true" mt="1533401211373" redirect="true"/>
+  <file name="index.html" crc="3771246929" seo="true" mt="1535797567291" redirect="true"/>
+  <file name="events.html" crc="3891975682" seo="true" mt="1535797642443" redirect="true"/>
+  <file name="sounds.html" crc="3823330617" seo="true" mt="1535797664845" redirect="true"/>
+  <file name="drinks.html" crc="4266259136" seo="true" mt="1535797698716" redirect="true"/>
+  <file name="history.html" crc="22289241" seo="true" mt="1535797735992" redirect="true"/>
+  <file name="galerie.html" crc="34901621" seo="true" mt="1535797716656" redirect="true"/>
+  <file name="impressum.html" crc="3904188367" seo="true" mt="1535797544147" redirect="true"/>
 </manifest>
