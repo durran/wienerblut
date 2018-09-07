@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.wienerblut.org/index.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -20,10 +20,16 @@
     <image:image>
       <image:loc>http://www.wienerblut.org/images/logo276x277.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/logo300x300.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.wienerblut.org/events.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -31,12 +37,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/polaroid-blank.jpg</image:loc>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://www.wienerblut.org/sounds.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -58,17 +58,11 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.wienerblut.org/drinks.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -76,12 +70,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/bier.jpg</image:loc>
@@ -109,11 +97,47 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/schnaps5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/bier254x338.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/bier198x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/sekt287x391.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/moscowmule285x380.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/kirschschorle290x290.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/cocktail286x381.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/bier262x350.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/spezi260x260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/sekt261x356.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/kirschschorle260x261.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/moscowmule261x347.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/cocktail260x347.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.wienerblut.org/history.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -121,17 +145,11 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://www.wienerblut.org/galerie.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -139,39 +157,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/bier.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/spezi.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/sekt.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/kirschschorle.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/moscowmule.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/cocktail.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/cops.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/schnaps3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/schnaps5.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/dsc00197.jpg</image:loc>
@@ -206,10 +191,166 @@
     <image:image>
       <image:loc>http://www.wienerblut.org/images/dsc08420.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01665348x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc00197348x261.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01666349x223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02018348x274.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02064349x262.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08207350x234.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08210348x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08263348x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08272351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08359348x233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08420349x236.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01665329x220.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc00197324x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01666325x208.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02018328x258.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02064324x243.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08207328x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08210328x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08263327x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08272328x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08359328x219.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08420327x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01665351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc00197351x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01666351x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02064351x264.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08207351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08210351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08263351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08359351x235.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08420351x238.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01665331x221.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc00197332x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01666331x212.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02064332x249.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02018331x260.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08207306x205.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08210332x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08263330x220.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08272332x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08359333x222.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08420332x225.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc00197305x229.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01665305x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc01666304x195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02018307x241.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc02064307x231.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08210303x203.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08263305x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08272308x206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08359305x204.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.wienerblut.org/images/dsc08420308x209.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://www.wienerblut.org/impressum.html</loc>
-    <lastmod>2018-09-01</lastmod>
+    <lastmod>2018-09-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -217,12 +358,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.wienerblut.org/images/pasted-svg-723x723.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/blood-drop.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.wienerblut.org/images/pasted-svg-39082x19.svg</image:loc>
     </image:image>
   </url>
 </urlset>
